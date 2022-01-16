@@ -10,8 +10,8 @@ This notebook produces the data analysis from the processed files
 This file is the saved output of the New_York_Campaign_Financing.ipynb file
 
 ## Address_Data_Harvesting_and_Repair.ipynb
-This notebook handles the data preparation from the raw NYC Open Data files.\ 
-It takes several hours to process these files.\
+This notebook handles the data preparation from the raw NYC Open Data files.<\br>
+It takes several hours to process these files.<\br>
 The processed files are included for the main notebook to perform the analysis. 
 
 IMPORTANT - RUNNING THIS NOTEBOOK WILL OVERRIDE THE PROCESSED FILES
